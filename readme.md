@@ -14,7 +14,7 @@ Welcome to the Note-Taking App! This is a simple web application built using Rea
 
 ## Deployment
 
-The Note-Taking App is deployed and accessible online. You can use the app by visiting the following link: [Live Demo](https://your-deployment-link.com)
+The Note-Taking App is deployed and accessible online. You can use the app by visiting the following link: [Live Demo](https://my-notesapp-dibyam.netlify.app/)
 
 ## Project Structure
 
@@ -38,4 +38,4 @@ Happy note-taking! If you have any questions or need further assistance, don't h
 
 **Author:** Dibyam Jalan 
 **Email:** dibyam1jalan@gmai.com  
-**Project Repository:** [note-taking-app](https://github.com/your-username/note-taking-app)
+**Project Repository:** [note-taking-app](https://github.com/dibyam-jalan27/NotesApp-TypeScript)
